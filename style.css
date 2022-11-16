@@ -1,0 +1,46 @@
+body {
+    background-color: #fff56b;
+    font-family: Garamond, serif;
+    font-size: 17px;
+}
+
+h1 {
+    color: rgb(255, 125, 125);
+    font-weight: bold;
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 700px;
+}
+
+.homepg {
+    height: auto;
+    width: 1050px;
+}
+
+.divide {
+    color: #ff5c5c;
+    background-color: #ffaeaea9;
+    font-style: bolder;
+    text-align: center;
+}
+
+a {
+    color: #fd88f9;
+    font-weight: bolder;
+}
+
+ul,
+ol {
+    font-weight: 500;
+}
+
+ul {
+    color: rgb(80, 124, 175);
+}
+
+ol {
+    color: rgb(45, 145, 111);
+}
